@@ -1,2 +1,2 @@
-# BounceOff
-Two rectangle bouncing off each other.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
